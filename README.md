@@ -9,13 +9,6 @@
 #### Покажутся картинки по текущему запросу в виде "водопада"
 #### Полную картинку можно посмотреть, нажав на ячейку с нужным изображением
 
-
-## Скриншоты представлены ниже:
-
-![Screenshot1](https://github.com/Natalia-Sharapova/APIPhotoSearch/blob/main/APIPhotoSearch/Screenshots/ScreenShot01.png?raw=true)
-![Screenshot2](https://github.com/Natalia-Sharapova/APIPhotoSearch/blob/main/APIPhotoSearch/Screenshots/ScreenShot02.png?raw=true)
-![Screenshot3](https://github.com/Natalia-Sharapova/APIPhotoSearch/blob/main/APIPhotoSearch/Screenshots/ScreenShot03.png?raw=true)
-
 ## Стек:
 
 ### • Swift
@@ -29,6 +22,12 @@
 ### • API Unsplash
 ### • XCTests
 ### • Waterfall Layout - подкласс UICollectionViewLayout для вертикального размещения ячеек в виде водопада, как в приложении Pinterest
+
+## Скриншоты представлены ниже:
+
+![Screenshot1](https://github.com/Natalia-Sharapova/APIPhotoSearch/blob/main/APIPhotoSearch/Screenshots/ScreenShot01.png?raw=true)
+![Screenshot2](https://github.com/Natalia-Sharapova/APIPhotoSearch/blob/main/APIPhotoSearch/Screenshots/ScreenShot02.png?raw=true)
+![Screenshot3](https://github.com/Natalia-Sharapova/APIPhotoSearch/blob/main/APIPhotoSearch/Screenshots/ScreenShot03.png?raw=true)
 
 ## Инструкция по установке:
 
