@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CHTCollectionViewWaterfallLayout",
+        "repositoryURL": "https://github.com/chiahsien/CHTCollectionViewWaterfallLayout.git",
+        "state": {
+          "branch": null,
+          "revision": "1fe42247efc8aea1ad03332d2b44f2d7fb1644bc",
+          "version": "0.9.10"
+        }
+      },
+      {
+        "package": "SDWebImage",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
+        "state": {
+          "branch": null,
+          "revision": "b729cc14f65e1412efc781a4cc46bd7f4720a3ae",
+          "version": "5.12.6"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
